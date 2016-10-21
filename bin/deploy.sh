@@ -108,9 +108,6 @@ for fn in $(find dist -name 'index.html' -not -path 'dist/index.html'); do
     $fn s3://${TESTPILOT_BUCKET}/${s3path}
 done
 
-# build version.json
-$(dirname $0)/build-version-json.sh
-
 if [ -e version.json ]; then
     # __version__ JSON; 10 minute cache
     aws s3 cp \

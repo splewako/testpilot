@@ -55,13 +55,13 @@ errorMessage=Coś poszło nie tak. <br> Może spróbuj później?
 notFoundHeader=Nie znaleziono!
 
 emailOptInDialogTitle=Witamy w Test Pilocie!
-emailOptInMessage=Otrzymuj informacje o nowych eksperymentach i sprawdzaj wyniki już wybróbowanych.
+emailOptInMessage=Otrzymuj informacje o nowych eksperymentach i sprawdzaj wyniki już wypróbowanych.
 emailValidationError=Proszę użyć poprawnego adresu e-mail!
 emailOptInInput =
   [html/placeholder] adres e-mail tutaj :)
 emailOptInButton=Zapisz mnie
 emailOptInSkip=Pomiń
-emailOptInConfirmationTitle=Wsyłano e-mail
+emailOptInConfirmationTitle=Wysłano e-mail
 emailOptInSuccessMessage2=Dziękujemy!
 emailOptInConfirmationClose=Przejdź do eksperymentów…
 
@@ -80,7 +80,7 @@ experimentCardGetStarted=Dołącz
 experimentCardLearnMore=Więcej informacji
 
 experimentPreFeedbackTitle={ $title } – opinie
-experimentPreFeedbackLinkCopy=Daj nam znać co sądzisz o eksperymencie „{ $title }”
+experimentPreFeedbackLinkCopy=Daj nam znać, co sądzisz o eksperymencie „{ $title }”
 
 experimentPromoHeader=Zaczynamy?
 experimentPromoSubheader=Tworzymy zupełnie nowe funkcje dla Firefoksa. Zainstaluj Test Pilota, aby je wypróbować!
@@ -102,12 +102,12 @@ feedbackUninstallTitle=Dziękujemy!
 feedbackUninstallCopy=Twoje uczestnictwo w programie Firefox Test Pilot wiele dla nas znaczy! Sprawdź nasze pozostałe eksperymenty i przygotuj się na jeszcze więcej!
 
 discussNotifyTitle=Chwileczkę…
-discussNotifyMessageAccountless=<p>W duchu eksperymentowania używamy zewnętrznego forum. Wymagane jest utworzenie konta, aby brać udział w dyskusjach.</p><p>Opinie można przesyłać również bezpośrednio przez Test Pilota jeśli nie chcesz tworzyć tam konta.</p>
+discussNotifyMessageAccountless=<p>W duchu eksperymentowania używamy zewnętrznego forum. Wymagane jest utworzenie konta, aby brać udział w dyskusjach.</p><p>Opinie można przesyłać również bezpośrednio przez Test Pilota, jeśli nie chcesz tworzyć tam konta.</p>
 discussNotifySubmitButton=Przejdź do forum
 discussNotifyCancelButton=Anuluj
 
 retireDialogTitle=Odinstalować Test Pilota?
-retireMessage=Wszystkie testy zostaną wyłączone, dodatek zostanie odinstalowany a informacje o koncie usunięte z naszych serwerów.
+retireMessage=Wszystkie testy zostaną wyłączone, dodatek zostanie odinstalowany, a informacje o koncie usunięte z naszych serwerów.
 retireEmailMessage=Aby zrezygnować z powiadomień e-mail wystarczy kliknąć odnośnik <em>Zrezygnuj z subskrypcji</em> w dowolnej wiadomości Test Pilota.
 retireSubmitButton=Kontynuuj
 retireCancelButton=Anuluj
@@ -140,20 +140,20 @@ tourOnboardingTitle=Włączono „{ $title }”!
 tourStartButton=Przewodnik
 tourCancelButton=Pomiń
 tourDoneButton=Gotowe
-userCountContainer=Testerzy ekperymentu „{ $title }”: <span>{ $installation_count }</span>
+userCountContainer=Testerzy eksperymentu „{ $title }”: <span>{ $installation_count }</span>
 userCountContainerAlt=Właśnie rozpoczęty!
 highlightPrivacy=Prywatność
 upgradeNoticeTitle=Eksperyment „{ $title }” wymaga Firefoksa { $min_release } lub nowszego.
-upgradeNoticeLink=Jak uaktualnij Firefoksa.
+upgradeNoticeLink=Jak uaktualnić Firefoksa.
 
 sharePrimary=Lubisz Test Pilota? Pomóż nam rekrutować testerów.
 shareSecondary=" lub zwyczajnie przeklej ten odnośnik…"
 shareEmail=E-mail
 shareCopy=Kopiuj
 
-eolMessage=<strong>Ten eksperyment kończy się { $completedDate }</strong>.<br/><br/>Używanie „{ $title }” po tym terminie będzie nadal możliwe ale nie będą oferowane uaktualnienia i wsparcie dla niego.
-eolDisableMessage=Eksperyment „{ $title }” się zakończył.Po odinstalowaniu nie będzie można zainstalować go ponownie przez Test Pilota.
-completedDateLabel=Data zakończenia ekperymentu: { $completedDate }
+eolMessage=<strong>Ten eksperyment kończy się { $completedDate }</strong>.<br/><br/>Używanie „{ $title }” po tym terminie będzie nadal możliwe, ale nie będą oferowane uaktualnienia i wsparcie dla niego.
+eolDisableMessage=Eksperyment „{ $title }” się zakończył. Po odinstalowaniu nie będzie można zainstalować go ponownie przez Test Pilota.
+completedDateLabel=Data zakończenia eksperymentu: { $completedDate }
 
 incompatibleHeader=Ten eksperyment może nie być zgodny z zainstalowanymi dodatkami.
 incompatibleSubheader=Zalecamy <a>wyłączenie tych dodatków</a> przed włączeniem tego eksperymentu:
@@ -167,7 +167,7 @@ newsletterFormSubmitButtonSubmitting=Przesyłanie…
 
 newsletterFooterError=Wystąpił błąd podczas przesyłania adres e-mail. Spróbować ponownie?
 newsletterFooterHeader= Stay Informed
-newsletterFooterBody=Otrzymuj informacje o nowych eksperymentach i sprawdzaj wyniki już wybróbowanych.
+newsletterFooterBody=Otrzymuj informacje o nowych eksperymentach i sprawdzaj wyniki już wypróbowanych.
 newsletterFooterSuccessHeader=Dziękujemy!
 newsletterFooterSuccessBody=Jeśli jeszcze nigdy nie potwierdzono subskrypcji newslettera Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce pocztowej lub spamie jest wiadomość od nas.
 
